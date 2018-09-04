@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 """Route_Check_V10.0.py: Calculates minimum number of stops based on Range/Distance"""
-__author__ = "Jonathan Alejandro"
+__author__ = "xxxxxxxxx"
 __copyright__ = "Copyright 2018, The Min Stop Project"
-__credits__ = ["Jonathan Alejandro", "Dhivarhar Premaul", "Jose Oliveras"]
+__credits__ = ["xxxxx", "xxxxxx", "xxxxxx"]
 __license__ = "GPL"
 __version__ = "10.0"
-__maintainer__ = "Jonathan Alejandro"
-__email__ = "brisbraniac@hotmail.com"
+__maintainer__ = "xxxxx"
+__email__ = "xxxxxxxx"
 __status__ = "Production"
 from itertools import combinations
 from operator import itemgetter
